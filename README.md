@@ -7,7 +7,7 @@ A creative and interactive Flutter application that allows users to generate and
 The Birthday Card App is designed to create a simple yet engaging way to celebrate special moments digitally. The app focuses on delivering a visually appealing birthday greeting experience with smooth UI and customizable elements.
 
 This project highlights your ability to build UI-focused Flutter apps and handle basic logic with clean design principles.
-
+ 
 
 ✨ Features
 
